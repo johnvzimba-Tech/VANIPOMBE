@@ -1,0 +1,1 @@
+Place the final tested VANIPOMBE.apk in this folder and remove this placeholder file before publishing.
