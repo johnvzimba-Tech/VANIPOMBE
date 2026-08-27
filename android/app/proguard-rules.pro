@@ -1,0 +1,1 @@
+# VANIPOMBE release rules

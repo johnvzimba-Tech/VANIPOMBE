@@ -1,0 +1,5 @@
+<resources>
+<style name="Theme.VANIPOMBE" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+ <item name="android:fontFamily">sans</item>
+</style>
+</resources>
