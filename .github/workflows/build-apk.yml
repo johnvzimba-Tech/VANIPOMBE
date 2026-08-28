@@ -11,7 +11,6 @@ build:
 name: Build Android APK
 runs-on: ubuntu-latest
 
-```
 defaults:
   run:
     working-directory: android
@@ -46,4 +45,3 @@ steps:
       name: VANIPOMBE-APK
       path: android/app/build/outputs/apk/**/*.apk
       if-no-files-found: error
-```
